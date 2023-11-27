@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my most updated CV [here]().
+You can find my most updated CV [here](files/Baichen_Tan_CV.pdf).

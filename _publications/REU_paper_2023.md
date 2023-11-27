@@ -2,6 +2,7 @@
 title: "Math REU 2023"
 collection: publications
 permalink: /publications/REU_paper_2023
+date: 2023-8-30
 paperurl: 'http://BaichenTan.github.io/files/REU_paper_2023.pdf'
 ---
 

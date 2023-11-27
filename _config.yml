@@ -95,7 +95,7 @@ author:
   dribbble         :
   flickr           :
   foursquare       :
-  github           : "https://github.com/BaichenTan?tab=repositories"
+  github           : "https://github.com/BaichenTan"
   google_plus      :
   keybase          :
   instagram        :
@@ -174,18 +174,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  #teaching:
+    #output: true
+    #permalink: /:collection/:path/
+  Research:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  #portfolio:
+    #output: true
+    #permalink: /:collection/:path/
+  #talks:
+    #output: true
+    #permalink: /:collection/:path/
 
 
 # Defaults

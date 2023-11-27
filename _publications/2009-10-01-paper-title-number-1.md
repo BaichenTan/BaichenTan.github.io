@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "(In Progress) Statistical inference in one-sample summary-data Mendelian randomization"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 
+date: 2023
+venue: 
+paperurl: 'http://BaichenTan.github.io/files/(In Progress) Statistical inference in one-sample summary-data Mendelian randomization.pdf'
+citation:
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This project extends Prof. Qingyuan Zhao's paper "Powerful three-sample genome-wide design and robust statistical inference in summary-data Mendelian randomization" to a more general case. We consider two major adaptations on Zhao's method. First, we do not use multiple samples. Second, we assume the risk factors are multidimensional (i.e. the gene snippet affects the outcome variable via multiple risk factors.)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+We are still working on the paper, you can read the draft [here]([http://academicpages.github.io/files/paper1.pdf](http://BaichenTan.github.io/files/(In Progress) Statistical inference in one-sample summary-data Mendelian randomization.pdf)http://BaichenTan.github.io/files/(In Progress) Statistical inference in one-sample summary-data Mendelian randomization.pdf)

@@ -3,7 +3,7 @@ title: "(In Progress) Statistical inference in one-sample summary-data Mendelian
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 
-date:
+date: 2023-11-20
 venue: 
 paperurl: 'http://BaichenTan.github.io/files/%5BIn%20Progress%5D%20Statistical%20inference%20in%20one-sample%20summary-data%20Mendelian%20randomization.pdf'
 citation:

@@ -12,6 +12,6 @@ I am a fourth year student from [University of Chicago](https://www.uchicago.edu
 
 I am very fortunate to have the chance to be advised by [Prof. Jingshu Wang](https://jingshuw.org/) and [Prof. Nikolaos Ignatiadis](https://nignatiadis.github.io/) from the Department of Statistics at University of Chicago.
 
-You can reach out to me via my email [baichen@uchicago.edu](malito:baichen@uchicago.edu).
+You can reach out to me via my email [baichen@uchicago.edu](mailto:baichen@uchicago.edu).
 
 

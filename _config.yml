@@ -83,11 +83,11 @@ author:
   name             : "Baichen Tan"
   avatar           : "profile.jpeg"
   bio              : "Statistics student at University of Chicago"
-  location         : 
+  location         : "Chicago US"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : 
+  email            : "baichen@uchicago.edu"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -95,6 +95,7 @@ author:
   dribbble         :
   flickr           :
   foursquare       :
+  github           : "https://github.com/BaichenTan?tab=repositories"
   google_plus      :
   keybase          :
   instagram        :

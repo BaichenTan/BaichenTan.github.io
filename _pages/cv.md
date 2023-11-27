@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink:
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my most updated CV [here](http://BaichenTan.github.io/files/Baichen_Tan_CV.pdf).
+You can find my most updated CV [here](http://BaichenTan.github.io/files/BaichenTan_CV.pdf).
